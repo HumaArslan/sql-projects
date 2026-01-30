@@ -1,0 +1,1 @@
+This repository contains SQL queries and projects for data analysis, including data cleaning, aggregation, joins, subqueries, and performance optimization. Designed to demonstrate practical SQL skills for real-world datasets.
